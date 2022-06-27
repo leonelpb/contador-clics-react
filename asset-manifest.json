@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/contador-clics-react/static/css/main.deceb2de.css",
-    "main.js": "/contador-clics-react/static/js/main.1c3d3686.js",
-    "static/media/freecodecamp_logo.png": "/contador-clics-react/static/media/freecodecamp_logo.bbb5d969bd29770b8885.png",
-    "index.html": "/contador-clics-react/index.html",
-    "main.deceb2de.css.map": "/contador-clics-react/static/css/main.deceb2de.css.map",
-    "main.1c3d3686.js.map": "/contador-clics-react/static/js/main.1c3d3686.js.map"
+    "main.css": "/contador-clics-react.git/static/css/main.deceb2de.css",
+    "main.js": "/contador-clics-react.git/static/js/main.15ca44db.js",
+    "static/media/freecodecamp_logo.png": "/contador-clics-react.git/static/media/freecodecamp_logo.bbb5d969bd29770b8885.png",
+    "index.html": "/contador-clics-react.git/index.html",
+    "main.deceb2de.css.map": "/contador-clics-react.git/static/css/main.deceb2de.css.map",
+    "main.15ca44db.js.map": "/contador-clics-react.git/static/js/main.15ca44db.js.map"
   },
   "entrypoints": [
     "static/css/main.deceb2de.css",
-    "static/js/main.1c3d3686.js"
+    "static/js/main.15ca44db.js"
   ]
 }
